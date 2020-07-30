@@ -4,3 +4,5 @@ Projetos desenvolvidos na Trybe:
 https://williamdieter88.github.io/projetos/lessons-learned/
 <br>
 https://williamdieter88.github.io/projetos/meme-generator/
+<br>
+https://williamdieter88.github.io/projetos/pixels-art/
