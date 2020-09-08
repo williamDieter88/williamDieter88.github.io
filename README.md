@@ -1,7 +1,7 @@
 # williamdieter88.github.io
 Projetos desenvolvidos na Trybe: 
 <br>
-https://williamdieter88.github.io/projetos/project-shopping-cart/
+Carrinho de compras usando a API do Mercado Livre: https://williamdieter88.github.io/projetos/project-shopping-cart/
 <br>
 https://williamdieter88.github.io/projetos/lessons-learned/
 <br>
